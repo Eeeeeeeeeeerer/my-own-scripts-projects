@@ -1,0 +1,361 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/M4lw4reT3sts/scripts-cheats-2/main/Social%20Kohls%20blacklister%20v3%20UPDATED.txt'),true))()
+-- Replace BLACKLISTED USER with their playername. Make sure you don't skip the second BLACKLISTED USER for the punish or else you're gay
+local Players = game:GetService("Players")
+ 
+Players.PlayerAdded:Connect(function(player)
+    print(player.Name .. " joined the game!")
+end)
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USER"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
+
+
+Players.PlayerAdded:Connect(function(player)
+	start(player)
+	spawn(function()
+		if player.Name == "BLACKLISTED USER" then
+			game:GetService'Players':Chat((":sm blacklisted player joined"))
+		game:GetService'Players':Chat((":allpads"))
+		game:GetService'Players':Chat((":spxm punish BLACKLISTED USERNAME"))
+		end
+	end)
+end)
